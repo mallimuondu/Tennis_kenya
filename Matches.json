@@ -13,12 +13,12 @@
  {
  "player1": "Manna-win",
  "player2":"Mumbi",
- "court":5-1 5-2
+ "pointspoints":5-1 5-2
  },
  {
  "player1": "Munene-win",
  "player2":"Rogelion",
- "court":5-3 5-1
+ "points":5-3 5-1
  }
  ]
 }
@@ -33,7 +33,7 @@
  {
  "player1": "Munene-win",
  "player2":"Ayan",
- "court":5-2 5-3
+ "points":5-2 5-3
  }
  ]
  
@@ -45,7 +45,7 @@
  "player1": "Malli-win",
  "player2":"Munene-out",
  "points":6-4 3-6 5-2
- },
+ }
 
  ]
  

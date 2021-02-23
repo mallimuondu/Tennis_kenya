@@ -1,23 +1,64 @@
 {
- "List": [
- {
- "player1": "Malli",
- "player2":"Munene",
- "court":1
- },
- {
- "player1": "Aush",
- "player2":"Ayan",
- "court":2
- },
- {
- "player1": "Manna",
- "player2":"Mumbi",
- "court":3
- },
- ]
- 
- ]
- 
-
+    "players":[
+        {
+        "name":"Nesh",
+        "age":12,
+        "tournaments_won":9
+        },
+        {
+            "name":"Malli",
+            "age":10,
+            "tournaments_won":9
+        },
+        {
+            "name":"Josh",
+            "age":15,
+            "tournaments_won":14
+        },
+        {
+            "name":"Ayan",
+            "age":9,
+            "tournaments_won":7
+        },
+        {
+            "name":"Aush",
+            "age":12,
+            "tournaments_won":10
+        },
+        {
+            "name":"Djocovich",
+            "age":38,
+            "tournaments_won":100
+        },
+        {
+            "name":"Nadal",
+            "age":34,
+            "tournaments_won":80
+        },
+        {
+            "name":"senrena",
+            "age":36,
+            "tournaments_won":99
+        },
+        {
+            "name":"Josh",
+            "age":15,
+            "tournaments_won":14
+        },
+        {
+            "name":"John",
+            "age":15,
+            "tournaments_won":3
+        },
+        {
+            "name":"charlse",
+            "age":15,
+            "tournaments_won":14
+        },
+        {
+            "name":"Jonathan",
+            "age":16,
+            "tournaments_won":4
+        }
+    ]
 }
