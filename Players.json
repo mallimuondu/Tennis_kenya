@@ -1,0 +1,23 @@
+{
+ "List": [
+ {
+ "player1": "Malli",
+ "player2":"Munene",
+ "court":1
+ },
+ {
+ "player1": "Aush",
+ "player2":"Ayan",
+ "court":2
+ },
+ {
+ "player1": "Manna",
+ "player2":"Mumbi",
+ "court":3
+ },
+ ]
+ 
+ ]
+ 
+
+}

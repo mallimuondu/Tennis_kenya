@@ -1,0 +1,53 @@
+{
+ "Round1": [
+ {
+ "player1": "Malli-win",
+ "player2":"Nigel-out",
+ "points":5-3 5-2
+ },
+ {
+ "player1": "Ayan",
+ "player2":"Aush-win",
+ "points":5-2 5-3 6-4
+ },
+ {
+ "player1": "Manna-win",
+ "player2":"Mumbi",
+ "court":5-1 5-2
+ },
+ {
+ "player1": "Munene-win",
+ "player2":"Rogelion",
+ "court":5-3 5-1
+ }
+ ]
+}
+{
+ "semis": [
+ {
+ "player1": "Malli-win",
+ "player2":"Manna-out",
+ "points":5-1 5-1
+ },
+
+ {
+ "player1": "Munene-win",
+ "player2":"Ayan",
+ "court":5-2 5-3
+ }
+ ]
+ 
+
+}
+{
+ "final": [
+ {
+ "player1": "Malli-win",
+ "player2":"Munene-out",
+ "points":6-4 3-6 5-2
+ },
+
+ ]
+ 
+
+}
